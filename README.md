@@ -6,7 +6,7 @@ This project aims to develop a machine learning model to predict successful cure
 
 ## Environment Setup
 
-The environment setup code is provided in the `setup.sh` file for macOS and `setup.bat` for Windows.
+The environment setup code is provided in the `setup.sh` file for macOS.
 
 **For macOS:**
 
