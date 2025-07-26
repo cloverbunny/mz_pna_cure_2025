@@ -3,7 +3,6 @@
 Code for the study:  
 **"Development of a Pilot Machine Learning Model to Predict Successful Cure in Critically Ill Patients with Community-Acquired Pneumonia"**  
 
-
 ---
 
 ## 🎯 Objective
